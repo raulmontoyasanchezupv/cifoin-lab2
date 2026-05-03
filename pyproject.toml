@@ -17,6 +17,7 @@ dependencies = [
     "shapely>=2.0",
     "pytz",
     "tqdm>=4.66",
+    "tidy3d>=2.8.5",
 ]
 
 [tool.setuptools]

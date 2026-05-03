@@ -1577,6 +1577,7 @@ dependencies = [
     { name = "numpy" },
     { name = "pytz" },
     { name = "shapely" },
+    { name = "tidy3d" },
     { name = "tqdm" },
 ]
 
@@ -1589,6 +1590,7 @@ requires-dist = [
     { name = "numpy", specifier = ">=1.26" },
     { name = "pytz" },
     { name = "shapely", specifier = ">=2.0" },
+    { name = "tidy3d", specifier = ">=2.8.5" },
     { name = "tqdm", specifier = ">=4.66" },
 ]
 
